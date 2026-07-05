@@ -34,13 +34,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0047_000.yaml, hash: 'sha256:8f6e77da725a101d2f382986d6e29dd59b0aa9dddd9a2fc2d203bec14ef390cd'}
-  - {seq: 1, filename: KR6k0047_001.yaml, hash: 'sha256:c7a5342c42b90fc6e771e75f40b2649ef48f9d1b27a5eadb20e01b85e7f55284'}
-  - {seq: 2, filename: KR6k0047_002.yaml, hash: 'sha256:516a074bc524bb9ebda99bc1c35c5e6ddffbf0da682e22b16076842718839412'}
-  - {seq: 3, filename: KR6k0047_003.yaml, hash: 'sha256:564eb7124ab27563edd557e74f4834fca0544a219111f54f5929d152b02d840d'}
+  - {seq: 1, filename: KR6k0047_001.yaml, hash: 'sha256:b2e3fb26a8f031e031099e02826575b0a53e235546fc4f8c6e1d00e3e26cbd56'}
+  - {seq: 2, filename: KR6k0047_002.yaml, hash: 'sha256:a964845a96c6efc875ca1c448d43ecea00707130d66ec5b6e0638eec23088e46'}
+  - {seq: 3, filename: KR6k0047_003.yaml, hash: 'sha256:f055e97f7c6cecf445a51bde01dc93469c470da56323e3d70736a4a30c6c0d29'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0047_001.markers.yaml, hash: 'sha256:ea6b0b2ce65796f3fb5162e7668276a3bbc0202b23ba6bf29dcdf7baaa07c989'}
-  - {seq: 2, role: markers, filename: assets/KR6k0047_002.markers.yaml, hash: 'sha256:925b4cfd8094916dd32ced2c3a299f1093c57a9af3d17fb3743e16a4018f737f'}
-  - {seq: 3, role: markers, filename: assets/KR6k0047_003.markers.yaml, hash: 'sha256:8c0cc08af40accdddbf6562533073a10a2db7302eb3a96a4c54f6cec6247f214'}
+  - {seq: 0, role: markers, filename: assets/KR6k0047_000.markers.yaml, hash: 'sha256:b716ca2e2babd59f01de54ae6d82f0be2152455127702a061856adf27051b5a6'}
+  - {seq: 1, role: markers, filename: assets/KR6k0047_001.markers.yaml, hash: 'sha256:639129e122b2fc8abc9dcf2395f050cdd7f530569a2503551ae19441237050d6'}
+  - {seq: 2, role: markers, filename: assets/KR6k0047_002.markers.yaml, hash: 'sha256:2d7c650e2e816b0404db5c2873ca7dcf81bed824e7d5ed2d5681212023f9e803'}
+  - {seq: 3, role: markers, filename: assets/KR6k0047_003.markers.yaml, hash: 'sha256:98a382a923ca644f4eda6509c92dc67f89577860757f94a1fe1131215b38cce0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -252,7 +253,4 @@ table_of_contents:
   label: 17 修奉篇(下)
   type: mulu
   level: 1
-hash: sha256:364caf7e409b7190f3a265696e507cd4bf73378a0779811a51fe9122f8e51b19
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4b345131236e2aea73a03bacd9f3a433c2a19f137fb02d59ff27fea57f204884
